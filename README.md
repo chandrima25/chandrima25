@@ -1,9 +1,12 @@
-👋 Hi, I'm Chandrima
+# Hi 👋, I'm Chandrima Ghosh
 
-🎓 B.Tech CSE Student
-💻 Java | Python | SQL
-📊 Data Analytics & ML Enthusiast
-🚀 Solving DSA and preparing for placements
+🎓 B.Tech CSE Student at RCCIIT  
+
+💻 Interested in Software Development, Data Analytics and Machine Learning 
+
+🌱 Currently learning DSA, Power BI and Backend Development  
+
+🚀 Preparing for internships and campus placements
 
 <!---
 chandrima25/chandrima25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
